@@ -1,5 +1,8 @@
 import streamlit as st
 
+st.image("https://statics.vincom.com.vn/xu-huong/ga-ran-gan-day/jollibee.jpg")
+
+
 appetizer = {
     'Khoai tây chiên (20k)': 20,
     'Salad gà (25k)': 25,
