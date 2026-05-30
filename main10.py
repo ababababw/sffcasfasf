@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.image(r"c:\Users\Admin\Downloads\Gemini_Generated_Image_gasiu5gasiu5gasi.png")
+
 appetizer = {
     'Khoai tây chiên (20k)': 20,
     'Salad gà (25k)': 25,
