@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import random
 
-students = ["An", "Bình", "Cường", "Dung"]
+students = ["Luân", "Vĩnh Khang", "Tấn Khang", "Phú"]
 subjects = ["Toán", "Lý", "Hóa", "Sinh", "Văn", "Sử", "Địa", "Anh", "Tin", "GDCD"]
 
 
