@@ -3,7 +3,7 @@ import pandas as pd
 
 st.title("Biểu đồ phổ điểm thi lớp 10")
 
-df = pd.read_csv(r"D:\pro 5\diemthi10.csv")
+df = pd.read_csv("diemthi10.csv")
 
 st.write("Dữ liệu:")
 st.dataframe(df)
