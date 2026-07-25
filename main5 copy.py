@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 
-data = pd.read_csv("D:\\pro 5\\data1.csv")
+data = pd.read_csv("data1.csv")
 
 st.dataframe(data)
 
