@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 
-df = pd.read_csv(r"D:\pro 5\data\data5.6_2.csv")
+df = pd.read_csv("data5.6_2.csv")
 
 st.subheader("dữ liệu gốc")
 st.write("Số dòng:", len(df))
