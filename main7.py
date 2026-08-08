@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 
-df = pd.read_csv("D:\\pro 5\\data\\data5.8.csv")
+df = pd.read_csv("data5.8.csv")
 
 so_gio_hoc = df["Số Giờ Học"]
 
